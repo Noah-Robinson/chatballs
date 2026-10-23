@@ -1,6 +1,5 @@
 # How to add chatballs to your stream:
 - Download the files
-- In the same folder that the index.html page is in, you must add [comfy.js](https://github.com/instafluff/comfyjs) and [matter.js](https://github.com/liabru/matter-js)
 - Open chatterview.js in any text editor and change the CHANNELNAME variable to your channel's name
 - Add the index.html file as a browser source in OBS
 
