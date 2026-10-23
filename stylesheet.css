@@ -1,0 +1,15 @@
+#messageContainer p {
+	position: absolute;
+	user-select: none;
+	margin: 0px;
+	max-width: 30%;
+	color: white;
+	text-align: center;
+	font-family: "Univers";
+	font-weight: bold;
+	-webkit-text-stroke: 0.75px #000;
+}
+
+#canvasContainer {
+	position: absolute;
+}
